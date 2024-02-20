@@ -6,6 +6,6 @@ class Conn:
                           'PORT=3306;'
                           'DATABASE=crime;'
                           'USER=root;'
-                          'PASSWORD=dineshsql7;'
+                          'PASSWORD=*************;'
                           'TRUSTED_CONNECTION=Yes;')
     cursor = connection.cursor()
